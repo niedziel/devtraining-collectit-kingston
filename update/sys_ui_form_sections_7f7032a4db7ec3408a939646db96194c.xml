@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="7f7032a4db7ec3408a939646db96194c" sys_domain="global" table="x_snc_collectit_collectit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-29 21:14:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3770f2a4db7ec3408a939646db9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_collectit_collectit" name="x_snc_collectit_collectit" sys_domain="global" view="Default view">7f7032a4db7ec3408a939646db96194c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_collectit_collectit" sys_domain="global" view="Default view">1c8f2a64db7ec3408a939646db961906</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-29 21:14:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-29 21:14:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3370f2a4db7ec3408a939646db9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_collectit_collectit" name="x_snc_collectit_collectit" sys_domain="global" view="Default view">7f7032a4db7ec3408a939646db96194c</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_collectit_collectit" sys_domain="global" view="Default view">337032a4db7ec3408a939646db96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-29 21:14:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_collectit_collectit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-29 21:14:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f7032a4db7ec3408a939646db96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_collectit_collectit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CollectIt" source="x_snc_collectit">7e3c5ee8db3ec3408a939646db96190f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CollectIt">7e3c5ee8db3ec3408a939646db96190f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7f7032a4db7ec3408a939646db96194c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-29 21:14:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
